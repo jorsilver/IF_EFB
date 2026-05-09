@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(mkdir -p /Users/jordansilver1/Documents/IF_EFB/client/src/hooks /Users/jordansilver1/Documents/IF_EFB/client/src/aircraft /Users/jordansilver1/Documents/IF_EFB/client/src/components/tabs)",
+      "Bash(npm run *)"
+    ],
+    "additionalDirectories": [
+      "/Users/jordansilver1/Documents/IF_EFB/client/src"
+    ]
+  }
+}
