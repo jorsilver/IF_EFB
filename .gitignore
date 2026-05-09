@@ -4,3 +4,6 @@ client/dist/
 .DS_Store
 *.log
 .claude/settings.json
+Architecture_Diagram.png
+Build_Prompt.docx
+Build_Prompt.pdf
